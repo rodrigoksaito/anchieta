@@ -1,3 +1,5 @@
+/* Exemplo de Comando if */
+
 #include <stdio.h>
 
 int main(int arg, char * args )
