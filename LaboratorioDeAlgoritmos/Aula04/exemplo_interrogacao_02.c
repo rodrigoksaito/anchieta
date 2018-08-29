@@ -16,6 +16,7 @@ int main(int arg, char * args )
     
     resto = numero % 2;
     
+    //operador ? fazendo o papel do if else
     resto == 0 ? 
       printf("\n%d é um numero par", numero) : 
       printf("\n%d é um numero impar", numero);
