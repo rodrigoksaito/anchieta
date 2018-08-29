@@ -1,4 +1,4 @@
-/* Exemplo de utilizacao do operador ? */
+/* Exemplo de utilizacao do operador ?  */
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,7 +14,7 @@ int main(int arg, char * args )
     fflush(stdin);
     scanf("%c", &sexo);
     
-    toupper(sexo); //transforma o caracter em maiusculo
+    sexo = toupper(sexo); //transforma o caracter em maiusculo
     
     sexo = 'M' ? printf("\nMasculino") : printf("\nFeminino");
     
