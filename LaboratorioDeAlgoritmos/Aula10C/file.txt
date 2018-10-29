@@ -1,0 +1,12 @@
+linha 0 - conteudo do arquivo file.txt
+linha 1 - o arquivo primeiramente
+linha 2 - em modo r - read
+linha 3 - (somente leiutra)
+linha 4 - para depois
+linha 5 - ser aberto
+linha 6 - nos demais
+linha 7 - modos, para 
+linha 8 - demonstrar o conteudo
+linha 9 - e utilizacao dos metodos
+linha 10 - de manipulacao de arquivo no
+linha 11 - python

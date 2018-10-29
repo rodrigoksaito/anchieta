@@ -1,0 +1,5 @@
+Linha1 do arquivo2.txt
+Linha2
+Linha3
+linha4
+

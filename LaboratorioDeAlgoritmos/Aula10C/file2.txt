@@ -1,0 +1,6 @@
+linha 0 - fazendo a escrita
+linha 1 - de arquivo em
+linha 2 - modo w
+linha 3 - utilizando a linguagem
+linha 4 - Python
+a
